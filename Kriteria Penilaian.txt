@@ -1,0 +1,27 @@
+Kriteria Penilaian
+
+Kurang (50) :
+- Tugas tidak dikumpulkan sesuai deadline / batas waktu.*
+- layout tidak sesuai dengan apa yang diminta client.*
+- content belum semua, misalkan hanya bagian navbar, header dan gallery.*
+- tidak menambahkan css style seperti animasi, hover, webkit scroll bar dan box shadow.*
+- typography tidak sesuai dengan apa yang diminta client, sepeti ukurang huruf, warna huruf, style huruf.*
+- box model tidak sesuai dengan apa yang diminta client, seperti ukuran margin, padding, width, height.*
+- tidak menambahkan vector pada section about, seperti vector planet, roket, ufo, komet.*
+
+Cukup (80) :
+- Tugas dikumpulkan tepat atau sebelum deadline / batas waktu.
+- layout sesuai dengan apa yang diminta client.
+- typography sesuai dengan apa yang diminta client.
+- css style belum semua, misalkan hanya hover dan animasi.*
+- content belum semua*
+- box model sedikit tidak sesuai dengan apa yang diminta client*
+
+baik (90) :
+- Tugas dikumpulkan tepat atau sebelum deadline / batas waktu.
+- layout sesuai dengan apa yang diminta client.
+- typography sesuai dengan apa yang diminta client.
+- css style sudah semua.
+- content sudah semua.
+- box model sudah semua.
+- menambahkan vector, seperti vector planet, roket, ufo, komet dan sesuai dengan posisinya.
